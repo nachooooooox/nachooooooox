@@ -22,7 +22,7 @@ Windows / Linux (ubuntu) / API REST / FTP/SFTP / SSH / Teamwork / Responsability
 ## More about me
 👩‍💻 I'm currently working at SCJ as a backend developer with Java Spring Boot
 
-🧠 I'm currently learning about Java 17.
+🧠 I'm currently learning about Java 17, Kotlin and Android Studio.
 
 💬 I'm a tutor in Data Analytics
 
