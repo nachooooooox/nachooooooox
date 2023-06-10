@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm Computer Civil Engineer with over 5 years of experience in Full Stack development. Throughout my professional career, I have led teams and essential projects for the operation of institutions, generating novel, scalable, and easy-to-use ideas.
+I'm Computer Science with over 5 years of experience in Full Stack development. Throughout my professional career, I have led teams and essential projects for the operation of institutions, generating novel, scalable, and easy-to-use ideas.
 
 I am constantly seeking to acquire new knowledge, whether from the team or personally, to innovate, complement, and implement new processes that help improve the usability and scalability of systems, process optimization, and a rapid response to any problems that may arise.
 
